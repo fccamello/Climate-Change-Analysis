@@ -26,7 +26,7 @@ The project is built with the following technologies:
 - **Jupyter Notebook**  
 - **Pandas** — data manipulation  
 - **NumPy** — numerical computations  
-- **Matplotlib / Seaborn** — data visualization
+- **Matplotlib** — data visualization
 
 ---
 
